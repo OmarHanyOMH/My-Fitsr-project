@@ -1,0 +1,89 @@
+body {
+  background-color: #f0f2f5;
+}
+.frame {
+  background-color: #fff;
+  padding-bottom: 28px;
+  padding-top: 8px;
+  margin: 132px 0px 0px 153px;
+  width: 401px;
+  border: solid 10px #fff;
+  border-radius: 8px;
+  height: 290px;
+}
+.input {
+  display: block;
+  width: 364px;
+  height: 24px;
+  padding: 14px 16px;
+  font-size: 17px;
+  text-align: right;
+  border-radius: 5px;
+  border: 1px solid rgb(226, 226, 226);
+  font-weight: 600;
+  font-weight: normal;
+  color: black;
+  /* border: blue 1px solid;
+  outline: rgb(198, 221, 255) 1px solid; */
+}
+#log-btn {
+  display: block;
+  width: 399px;
+  height: 46px;
+  padding: 8px 16px;
+  font-size: 21px;
+  text-align: center;
+  background-color: #1877f2;
+  color: white;
+  font-weight: 900;
+  cursor: pointer;
+}
+#link2 {
+  margin: 0px 147.5px 15px;
+  display: inline-block;
+  text-decoration: none;
+}
+.sign-btn {
+  cursor: pointer;
+  display: block;
+  width: 148px;
+  height: 42px;
+  padding: 5px 13px;
+  font-size: 20px;
+  text-align: center;
+  background-color: #42b72a;
+  color: white;
+  font-weight: 900;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 20px 126.5px;
+}
+.info {
+  float: right;
+  direction: rtl;
+  margin: -279px 189px 0px 0;
+}
+#logo {
+  height: 109px;
+  margin: -28px;
+}
+#caption {
+  font-family:
+  SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 29px;
+  font-weight: normal;
+  width: 500px;
+  margin: 11px 0 0;
+}
+.page{
+  direction: rtl;
+  display: inline-block;
+  margin: 16px 203px;
+  font-size: 15px;
+}
+#link {
+  display: inline;
+  text-decoration: none;
+  font-weight: bold;
+  color:black;
+}
